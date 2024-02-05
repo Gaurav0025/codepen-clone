@@ -1,0 +1,14 @@
+.CodeMirror{
+    height: 340px !important ;
+    color: #fdfcfc;
+}
+
+.CodeMirror-gutters{
+    background: #2d2a2a !important;
+}
+
+.CodeMirror{
+    background: #000000 !important;
+    
+
+}
